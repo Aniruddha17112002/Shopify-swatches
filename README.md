@@ -8,6 +8,10 @@ Compatible Themes: This code should work on all free Shopify themes (Dawn, Refre
 Create Metaobject “Variant Swatch Map”
 Make sure handles of the metaobject and fields match those shown in the video since the code references those exact handles.
 
+### before these code you need to see these
+https://theprompted.co/blogs/tutorials/product-variant-swatches-v4-for-dawn-v15-free-tutorial?_pos=7&_sid=1ccead63c&_ss=r
+
+
 - Field 1: Title
 Regular Expression: ```^[a-zA-Z0-9_-]+$``` (pattern to match - alphanumeric with - and _)
 
